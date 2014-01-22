@@ -3,7 +3,6 @@ import glob
 import pprint
 import operator
 import datetime
-import movies
 
 #data_files = glob.glob('training_set/*')
 data_files = glob.glob('test/*')
